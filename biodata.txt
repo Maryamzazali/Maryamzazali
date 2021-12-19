@@ -1,0 +1,29 @@
+<head>
+<style>
+h1{
+text-align:center;
+}
+</style>
+</head>
+<body>
+
+<h1>About Me</h2>
+<dl>
+  <dt>Name</dt>
+  <dd>- Maryam binti Zazali</dd>
+  <dt>Age</dt>
+  <dd>- 21 years old</dd>
+  <dt>Date of birth</dt>
+  <dd>- 20 July 2000</dd>
+  <dt>Hobby</dt>
+  <dd>- Reading books</dd>
+  <dt>Favourite food</dt>
+  <dd>- Fried chicken</dd>
+  <dt>Favourite drink</dt>
+  <dd>- Orange juice</dd>
+</dl>
+<p>
+<a href="index.html">Back to home</a>
+</p>
+</body>
+</html>

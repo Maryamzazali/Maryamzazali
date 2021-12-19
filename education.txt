@@ -1,0 +1,37 @@
+<html>
+<style>
+h2{
+text-align:center;
+}
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>My Education</h2>
+
+<table style="width:70%">
+  <tr>
+    <th>Year</th>
+    <th>Place of study</th>
+  </tr>
+  <tr>
+    <td>2007-2012</td>
+    <td>Sekolah Kebangsaan Jeneri</td>
+  </tr>
+  <tr>
+    <td>2013-2017</td>
+    <td>Sekolah Menengah Kebangsaan Jeneri</td>
+  </tr>
+  <tr>
+    <td>2019-2022</td>
+    <td>University Technology Mara</td>
+  </tr>
+</table>
+
+<p>
+<a href="index.html">Back to home</a>
+</p>
+</body>
+</html>
